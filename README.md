@@ -2,26 +2,21 @@
 
 ### Full Stack Software Engineer | Fintech | AI | E-Commerce
 
-I build scalable full-stack applications and backend systems using
-Java, Spring Boot, React, TypeScript, Node.js, Python, and cloud technologies.
+I’m a Full Stack Software Engineer passionate about building scalable, secure, and production-ready applications.
 
-Currently working on fintech applications and workflow automation while building
-production-style projects around AI, e-commerce, microservices, and distributed systems.
+I work across **Java, Spring Boot, React, TypeScript, Node.js, Python, FastAPI, MongoDB, PostgreSQL, and cloud technologies**.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 💼 Full Stack Developer at GEPL Capital
-- 🏦 Experience building fintech and enterprise applications
-- ⚛️ React, TypeScript, Redux & modern frontend development
-- ☕ Java, Spring Boot & microservices
-- 🟢 Node.js, Express.js & REST APIs
-- 🐍 Python & FastAPI
-- 🗄️ PostgreSQL, MongoDB, MySQL & Redis
-- ☁️ GCP, Supabase & AWS S3
-- 🔐 JWT Authentication & PostgreSQL Row-Level Security
-- 🚀 Interested in scalable systems, backend architecture & AI applications
+- 💻 Full Stack Software Engineer
+- 🏦 Experience building applications in **Fintech & Enterprise environments**
+- 🚀 Interested in **scalable backend systems, microservices, APIs, and system design**
+- 🤖 Exploring **AI-powered applications and RAG systems**
+- ⚛️ Building modern web applications with **React + TypeScript**
+- ☁️ Working with **GCP, AWS, Supabase & cloud-based services**
+- 📚 Continuously learning **System Design, Distributed Systems & Cloud Architecture**
 
 ---
 
@@ -57,7 +52,7 @@ production-style projects around AI, e-commerce, microservices, and distributed 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
@@ -72,34 +67,95 @@ production-style projects around AI, e-commerce, microservices, and distributed 
 
 # 🚀 Featured Projects
 
-## 🧠 SupportIQ — AI-Assisted Support Investigation Platform
+## 🤖 SupportIQ — AI-Assisted Support Investigation Platform
 
-An AI-assisted engineering investigation platform that converts customer
-support tickets into structured, reviewable engineering investigations.
+**Python | FastAPI | Celery | PostgreSQL | pgvector | React | TypeScript**
 
-**Tech Stack**
+An AI-assisted platform designed to help support teams investigate technical issues using **Retrieval-Augmented Generation (RAG)**.
 
-`Python` `FastAPI` `Celery` `PostgreSQL` `pgvector` `React` `TypeScript`
+### Key Engineering Concepts
 
-### Architecture
+- RAG-based AI investigation workflow
+- FastAPI backend
+- Celery background workers
+- PostgreSQL + pgvector
+- Modular monolith architecture
+- Multi-tenant database design
+- Outbox pattern
+- Lease-based worker claims
+- Audited and versioned workflows
+- Human-in-the-loop investigation
+
+---
+
+## 🛍️ Grow & Glow — E-Commerce Platform
+
+**React | TypeScript | Tailwind CSS | Supabase | PostgreSQL | Deno | AWS S3**
+
+A production e-commerce platform built for a kids gifting business.
+
+### Key Features
+
+- Full-stack storefront
+- Admin dashboard
+- Authentication & authorization
+- PostgreSQL database
+- Row Level Security (RLS)
+- Deno Edge Functions
+- Secure signed media URLs
+- AWS S3-compatible storage
+- React Query caching
+- IndexedDB persistent caching
+- Optimized image loading
+- Real-time commerce workflows
+
+🌐 **Website:** [growandglow03.co.in](https://growandglow03.co.in)
+
+---
+
+# 🏦 Fintech & Enterprise Applications
+
+I have experience working on enterprise applications involving:
+
+- Financial workflows
+- Billing management
+- CDSL workflows
+- REST APIs
+- Microservices
+- Authentication & authorization
+- Database-driven applications
+- BigQuery analytics
+- React-based enterprise interfaces
+- UAT workflows
+- Production application support
+
+---
+
+# 📚 Currently Learning
+
+- System Design
+- Distributed Systems
+- Advanced Spring Boot
+- Microservices Architecture
+- Cloud Architecture
+- AI / RAG Applications
+- Redis & Caching
+- Event-driven Architecture
+- Scalable Database Design
+
+---
+
+# 🎯 Engineering Interests
 
 ```text
-Customer Support Ticket
-          │
-          ▼
-      FastAPI API
-          │
-          ▼
-   Investigation Job
-          │
-          ▼
-   Celery Workers
-          │
-          ▼
-   RAG / Retrieval
-          │
-          ▼
- PostgreSQL + pgvector
-          │
-          ▼
-Human Review & Approval
+Backend Engineering
+        ↓
+System Design
+        ↓
+Microservices
+        ↓
+Distributed Systems
+        ↓
+Cloud Architecture
+        ↓
+AI-Powered Applications
